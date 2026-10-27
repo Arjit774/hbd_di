@@ -155,7 +155,7 @@ betu-di-birthday/
 ├── js/
 │   └── script.js
 ├── img/
-│   ├── Shagun.jpg
+│   ├── Shagun1.jpg
 │   ├── hat.svg
 │   ├── birthday-cake.png
 │   └── birthday-candle.png
